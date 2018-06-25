@@ -1,0 +1,11 @@
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TheWall\bin\Debug\netcoreapp2.0\TheWall.deps.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TheWall\bin\Debug\netcoreapp2.0\TheWall.runtimeconfig.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TheWall\bin\Debug\netcoreapp2.0\TheWall.runtimeconfig.dev.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TheWall\bin\Debug\netcoreapp2.0\TheWall.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TheWall\bin\Debug\netcoreapp2.0\TheWall.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TheWall\obj\Debug\netcoreapp2.0\TheWall.csprojResolveAssemblyReference.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TheWall\obj\Debug\netcoreapp2.0\TheWall.csproj.CoreCompileInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TheWall\obj\Debug\netcoreapp2.0\TheWall.AssemblyInfoInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TheWall\obj\Debug\netcoreapp2.0\TheWall.AssemblyInfo.cs
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TheWall\obj\Debug\netcoreapp2.0\TheWall.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TheWall\obj\Debug\netcoreapp2.0\TheWall.pdb

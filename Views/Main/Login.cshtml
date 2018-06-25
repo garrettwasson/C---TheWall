@@ -1,0 +1,9 @@
+@model TheWall.Models.UserLog
+<div asp-validation-summary="All"></div>
+<h1>Login</h1>
+<form method="post">
+    <input asp-for="LoginEmail" placeholder="Email">
+    <input asp-for="LoginPassword" placeholder="Password">
+    <input type="submit" value="Login">
+</form>
+<a href="/register">Don't have an account? Click here to register!</a>
